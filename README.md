@@ -15,4 +15,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IvaniaTAVARESSILVA&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
+### 🤓 Currently Working on:
+A simple Kanban task board for devs made by devs
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
